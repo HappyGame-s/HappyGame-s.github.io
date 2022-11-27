@@ -1,0 +1,21 @@
+header{
+    background-color: var(--header);
+    color: rgb(0, 162, 255);
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    line-height: 1.5;
+    z-index: 100;
+}
+
+footer{
+    background-color: var(--footer);
+    color: rgb(0, 162, 255);
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    line-height: 1.5;
+    z-index: 100;
+}
