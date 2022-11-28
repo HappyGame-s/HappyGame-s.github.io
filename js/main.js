@@ -20,6 +20,6 @@ function getgit(owner, repo, path) {
     });
 }
 var gg;
-getgit("HappyGame-s", "HappyGame-s", "shop.json").then((value) => {
+getgit("HappyGame-s", "HappyGame-s.github.com", "shop.json").then((value) => {
     gg = value;
 });

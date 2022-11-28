@@ -18,7 +18,7 @@ async function getgit (owner:string, repo:string, path:string) {
 
 
 var gg:any;
-getgit("HappyGame-s", "HappyGame-s", "shop.json").then(
+getgit("HappyGame-s", "HappyGame-s.github.com", "shop.json").then(
     (value) => {
         gg = value;
     }
