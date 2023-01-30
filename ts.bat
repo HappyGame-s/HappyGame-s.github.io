@@ -1,2 +1,0 @@
-cd ./js
-tsc --watch

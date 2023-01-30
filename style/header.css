@@ -1,0 +1,22 @@
+body{
+    background-color: #38B6FF;
+    font-weight: 1000;
+    color: #FFBD59;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: #FFBD59;
+}
+
+img{
+    height: 100px;
+    position: fixed;
+    left: 5px;
+    top: 5px;
+}
+
+nav{
+    margin-left: 110px;
+    margin-top: 45px;
+}
